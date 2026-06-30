@@ -8,3 +8,28 @@
 body {
   font-family: var(--font-body);
 }
+@keyframes marquee {
+
+  from{
+    transform:translateX(0);
+  }
+
+  to{
+    transform:translateX(-50%);
+  }
+
+}
+
+.animate-marquee{
+
+  width:max-content;
+
+  animation:marquee 25s linear infinite;
+
+}
+
+.animate-marquee:hover{
+
+  animation-play-state:paused;
+
+}
