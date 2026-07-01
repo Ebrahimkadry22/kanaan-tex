@@ -14,7 +14,7 @@ const ProductCard = ({
   description,
   image,
   link,
-  className = "",
+  
 }: ProductCardProps) => {
   return (
    <Link
