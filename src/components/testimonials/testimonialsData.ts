@@ -2,6 +2,7 @@ export const testimonials = [
   {
     id: 1,
     name: "John Smith",
+    position: "Production Manager",
     company: "ZARA",
     country: "Spain",
     image: "https://i.pravatar.cc/200?img=11",
@@ -12,6 +13,7 @@ export const testimonials = [
   {
     id: 2,
     name: "Emma Wilson",
+    position: "Purchasing Director",
     company: "H&M",
     country: "Sweden",
     image: "https://i.pravatar.cc/200?img=12",
@@ -22,6 +24,7 @@ export const testimonials = [
   {
     id: 3,
     name: "David Brown",
+    position: "Supply Chain Manager",
     company: "LC Waikiki",
     country: "Turkey",
     image: "https://i.pravatar.cc/200?img=13",

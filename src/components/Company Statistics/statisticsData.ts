@@ -2,7 +2,6 @@ import {
   FaAward,
   FaUsers,
   FaBoxOpen,
-  FaGlobeAfrica,
 } from "react-icons/fa";
 
 export const statistics = [
@@ -24,10 +23,5 @@ export const statistics = [
     title: "Product Categories",
     icon: FaBoxOpen,
   },
-  {
-    number: 15,
-    suffix: "+",
-    title: "Countries Served",
-    icon: FaGlobeAfrica,
-  },
+  
 ];
