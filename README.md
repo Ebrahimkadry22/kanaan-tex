@@ -75,4 +75,5 @@ export default defineConfig([
 =======
 # kanaan-tex
 Naseej Company website
->>>>>>> 63f3ee7ada157ef03afab601e7c60f0b72844f3d
+https://kanaan-aqc30dvam-ibrahim-kadrys-projects.vercel.app
+
